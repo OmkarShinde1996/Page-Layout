@@ -8,4 +8,4 @@
 ![image](https://user-images.githubusercontent.com/109081005/187374614-9e1e0b08-98c7-4396-9248-638f8104ff25.png)
 ---
 ### Mobile dispaly
-![image](https://user-images.githubusercontent.com/109081005/187374894-b19ef383-a147-412f-94d8-b39db940a1b0.png)
+![image](https://user-images.githubusercontent.com/109081005/187377148-ec9cae9f-4253-40a3-afc1-7b540e45de43.png)

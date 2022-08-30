@@ -1,0 +1,9 @@
+.container{
+    background-color: aqua;
+    border: 3px solid red;
+}
+
+.col, .col-5, .col-6, .col-sm-3, .col-sm-9, .col-8, .col-4, .col-sm-6,.col-sm-8,.col-sm-4,.col-sm,.col-md-8{
+    border: 1px solid black;
+}
+

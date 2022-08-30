@@ -2,7 +2,7 @@
 ## This Repo represents below type of responsive HTML and Bootstrap layout
 
 ### Large display
-![image](https://user-images.githubusercontent.com/109081005/187374263-72d30d53-b759-467a-b4dd-f787abdc88a8.png)
+![image](https://user-images.githubusercontent.com/109081005/187376663-7c51cff3-cbea-45d9-beeb-ae7a4b5f9442.png)
 ---
 ### Tab display
 ![image](https://user-images.githubusercontent.com/109081005/187374614-9e1e0b08-98c7-4396-9248-638f8104ff25.png)
